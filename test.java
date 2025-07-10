@@ -1,0 +1,4 @@
+class
+{
+hellow world
+}
